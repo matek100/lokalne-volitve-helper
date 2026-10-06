@@ -1,0 +1,12 @@
+# osebni podatki kandidatov - ne v git
+*.xlsx
+*.xls
+*.ods
+*.csv
+!primer/*.xlsx
+!primer/*.csv
+output/
+.cache/
+__pycache__/
+~$*
+.~lock*
